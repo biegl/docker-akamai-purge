@@ -1,0 +1,5 @@
+[default]
+host = [API_HOST]
+access_token = [API_ACCESS_TOKEN]
+client_secret = [API_SECRECT]
+client_token = [API_CLIENT_TOKEN]
